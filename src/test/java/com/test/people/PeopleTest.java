@@ -21,7 +21,7 @@ public class PeopleTest {
 	@BeforeClass
 	public static void beforeClassStarts() {
 		people = new People();
-		//System.out.println(people+"has begun");
+		System.out.println(people+"has begun");
 	}
 	@Before
 	public void setUp() {
